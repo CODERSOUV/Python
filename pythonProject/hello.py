@@ -1,4 +1,3 @@
-str="gen"
+str1="gen"
 print("Hello world")
-print(str)
-print("se")
+print(str1)
