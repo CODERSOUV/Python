@@ -1,5 +1,4 @@
 import random
-
 r = [1, 2, 3]
 print("----Rock Paper Scissors---")
 print("For rock, press 1\nFor paper, press 2\nFor scissors, press 3")

@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 df = pd.DataFrame({
     "State": ['Andhra Pradesh', 'Maharashtra', 'Karnataka', 'Kerala', 'Tamil Nadu'],
     "Capital": ['Hyderabad', 'Mumbai', 'Bengaluru', 'Trivandrum', 'Chennai'],
